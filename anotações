@@ -1,0 +1,8 @@
+                    aula01
+grafo = conjunto de variaveis conectadas;
+verticie = variavel dentro do grafo
+aresta ligação entre verticie
+                    aula02
+                    buscas
+bfs- largura(procura nos elementos no mesmo nivel)
+dfs-  profundidade(procura em elementos em diferentes niveis, recurssividadde)
