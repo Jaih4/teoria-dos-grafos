@@ -1,4 +1,4 @@
-                    aula01
+                     aula01
 grafo = conjunto de variaveis conectadas;
 verticie = variavel dentro do grafo
 aresta ligação entre verticie
@@ -6,3 +6,7 @@ aresta ligação entre verticie
                     buscas
 bfs- largura(procura nos elementos no mesmo nivel)
 dfs-  profundidade(procura em elementos em diferentes niveis, recurssividadde)
+                    aula03
+Árvore no caso de aresta= verticie-1 && componentes conectados=1
+sssp = busca do menor caminho entre dois pontos
+grafo bipartido = o grafico com elemento divididos em 2 grupos, 1 verticieso pode se conectar a um numero da outra parte

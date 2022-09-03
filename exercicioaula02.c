@@ -62,6 +62,7 @@ int main(int argc, char const *argv[])
     }
   }
 
+  
   printf("%d", ligacao);
   
   return 0;
